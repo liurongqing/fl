@@ -5,4 +5,4 @@ var compose = function (f, g) {
 }
 
 var a = compose(split(''))
-a('this is a test')
+a('this is a test 123123')
